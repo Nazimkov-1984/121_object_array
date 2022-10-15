@@ -1,0 +1,8 @@
+body {
+    background: url(./footerIcon/1.jpg) no-repeat;
+    background-position: center center;
+    background-size: cover;
+    min-height: 100vh;
+    margin: 0;
+    padding: 0;
+}
